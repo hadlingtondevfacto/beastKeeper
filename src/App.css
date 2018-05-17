@@ -22,6 +22,12 @@
   font-size: large;
 }
 
+.Search-area{
+	text-align: left;
+	padding-left: 20px;
+	
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
